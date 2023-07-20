@@ -1,0 +1,11 @@
+{
+  "name": "action-destinations",
+  "version": "60.54.35",
+  "description": "This is the most latest version of the package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

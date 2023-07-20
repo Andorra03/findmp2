@@ -1,0 +1,10 @@
+{
+  "name": "@blk/idm-okta-sdk-js",
+  "version": "1.2.0",
+  "description": "%RAND_STRING%",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node build.js"
+  },
+  "license": "MIT"
+}

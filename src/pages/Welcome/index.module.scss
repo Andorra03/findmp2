@@ -1,0 +1,38 @@
+.wrapper {
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1.78rem;
+    box-sizing: border-box;
+}
+
+.classifier {
+    position: absolute;
+    right: 0.35rem;
+    top: 0.25rem;
+    display: flex;
+    align-items: center;
+}
+
+.classifierLabel {
+    font-size: 0.25rem;
+    color: back;
+    font-weight: bold;
+    margin-right: 0.18rem;
+}
+
+.button{
+    background-color: black;
+    height: 0.60rem;
+    width: 2.00rem;
+    font-size: 0.25rem;
+    font-family: 宋体;
+    color: azure;
+}
+
+.button:hover{
+    background: rgb(236, 168, 23);
+    color:black;
+}

